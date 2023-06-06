@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/Task_4/static/css/main.bbf99f7d.css",
+    "main.js": "/github.io/Task_4/static/js/main.0d911b8f.js",
+    "static/js/787.545aecf5.chunk.js": "/github.io/Task_4/static/js/787.545aecf5.chunk.js",
+    "static/media/holberton-logo.jpg": "/github.io/Task_4/static/media/holberton-logo.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/github.io/Task_4/index.html",
+    "main.bbf99f7d.css.map": "/github.io/Task_4/static/css/main.bbf99f7d.css.map",
+    "main.0d911b8f.js.map": "/github.io/Task_4/static/js/main.0d911b8f.js.map",
+    "787.545aecf5.chunk.js.map": "/github.io/Task_4/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbf99f7d.css",
+    "static/js/main.0d911b8f.js"
+  ]
+}
